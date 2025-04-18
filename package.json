@@ -6,7 +6,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "npx jest"
+    "test": "npx jest",
+    "start": "tsc src/main.ts && node src/main.js"
   },
   "keywords": [],
   "author": "",
