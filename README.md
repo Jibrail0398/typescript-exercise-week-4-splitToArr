@@ -4,7 +4,8 @@
 
 - Pada skeleton kode yang terdapat file `main.test.ts` tidak boleh diubah sama sekali.
 - Dilarang mengganti nama function yang diberikan
-
+- Jalankan npm run test untuk melihat nilai
+- Jalankan npm run start untuk kompilasi code kalian
 ---
 
 ## Directions
